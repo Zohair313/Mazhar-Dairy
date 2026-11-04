@@ -1,0 +1,140 @@
+{
+  "top_bar": {
+    "phone_label": "Direct Call:",
+    "landline_label": "Shop Landline:",
+    "whatsapp_label": "WhatsApp Desk:",
+    "lang_toggle_btn": "اردو"
+  },
+  "nav": {
+    "catalogue": "Catalogue & Specs",
+    "wholesale": "Wholesale Supply",
+    "quality": "Cold Chain & Quality",
+    "how_to_order": "How to Order",
+    "story": "Our Story",
+    "reviews": "Client Reviews",
+    "visit": "Visit Shop",
+    "get_rate_list": "Get Wholesale Rate List"
+  },
+  "hero": {
+    "tag_code": "RAJA BAZAR / EST. 1987 / WHOLESALE & RETAIL DAIRY",
+    "main_title": "Wholesale and Retail Dairy Supply for Twin Cities Kitchens",
+    "sub_lead": "Supplying pizzerias, commercial kitchens, bakeries, and home cooks across Rawalpindi and Islamabad with cheddar, mozzarella, butter, and desi ghee directly from Kashmiri Bazaar.",
+    "door_business_badge": "COMMERCIAL KITCHENS & B2B",
+    "door_business_title": "For Businesses (Wholesale)",
+    "door_business_promise": "Consistent melt grade, daily delivery vans, and FBR computerized tax invoices for pizzerias, hotels, and bakeries.",
+    "door_business_btn": "View Wholesale Specs & Rates",
+    "door_home_badge": "HOME COOKS & FAMILIES",
+    "door_home_title": "For Home (Retail)",
+    "door_home_promise": "Fresh block cheese, pure butter, and traditional granular desi ghee in 500g and 1kg packs directly at counter prices.",
+    "door_home_btn": "View Retail Sizes & Counter Rates",
+    "facts": {
+      "founded": "Supplying since 1987",
+      "fbr": "FBR-registered, computerized sales tax invoices",
+      "rating": "4.8 on Google (132 verified reviews)"
+    }
+  },
+  "catalogue": {
+    "section_code": "SPEC-SHEET / SECTION 01 / PRODUCT CATALOGUE",
+    "heading": "Product Specifications & Price Sheet",
+    "subheading": "Select your trade tier to view calibrated pack sizes, minimum orders, and current rate schedules.",
+    "toggle_business": "Business (Wholesale Supply)",
+    "toggle_home": "Home (Retail & Counter)",
+    "table_headers": {
+      "product": "Product & Form",
+      "best_for": "Commercial Application",
+      "pack_sizes": "Available Pack Sizes",
+      "min_order": "Minimum Order",
+      "rate": "Price Line (PKR)",
+      "action": "Inquire / Order"
+    },
+    "order_btn_business": "Inquire Wholesale Rates",
+    "order_btn_retail": "Order via WhatsApp",
+    "disclaimer_business": "* Wholesale contract pricing depends on weekly volume tiers and delivery frequency. Official FBR sales tax invoice issued with every dispatch.",
+    "disclaimer_retail": "* Retail rates reflect direct Kashmiri Bazaar shop counter prices. Prices subject to seasonal raw milk market updates."
+  },
+  "wholesale_section": {
+    "section_code": "TRADE-DESK / SECTION 02 / B2B SUPPLY CONTRACTS",
+    "heading": "Wholesale Dairy Supply for Commercial Accounts",
+    "subheading": "We supply over 85 commercial kitchens across Rawalpindi and Islamabad with scheduled weekly dispatches, stable melt specs, and tax compliance.",
+    "who_title": "Who We Supply",
+    "what_title": "What You Get with Mazhar Dairy",
+    "form_box_title": "Request a Wholesale Rate Sheet",
+    "form_box_desc": "Fill in your kitchen details below. This will pre-fill a WhatsApp trade inquiry to our sales desk for immediate quotation.",
+    "form": {
+      "business_name": "Business / Restaurant Name",
+      "business_name_ph": "e.g., Roma Pizza & Cafe",
+      "business_type": "Business Type",
+      "business_type_options": {
+        "pizzeria": "Pizzeria / Fast Food",
+        "restaurant": "Restaurant / Cafe",
+        "hotel": "Hotel / Club / Catering",
+        "bakery": "Bakery / Sweet Shop",
+        "other": "Other Commercial Kitchen"
+      },
+      "city": "City / Location",
+      "city_ph": "e.g., F-7 Islamabad or Saddar Rawalpindi",
+      "items_needed": "Products Needed",
+      "items_needed_ph": "e.g., Shredded mozzarella + Cheddar blocks",
+      "monthly_volume": "Approx. Monthly Quantity (kg)",
+      "monthly_volume_ph": "e.g., 80 kg per month",
+      "submit_btn": "Send Wholesale Inquiry via WhatsApp"
+    }
+  },
+  "quality": {
+    "section_code": "COLD-CHAIN / SECTION 03 / HANDLING & TEMPERATURE",
+    "heading": "Cold Chain, Storage & Processing Protocol",
+    "subheading": "Factual dairy handling standards maintained at our Kashmiri Bazaar cold facility. No unverified lab claims.",
+    "proof_callout_title": "Melt & Stretch Calibration for Deck & Conveyor Ovens",
+    "proof_callout_desc": "Our low-moisture mozzarella is tested for stretch continuity, oil release, and blister resistance at standard 260°C to 300°C pizza oven temperatures.",
+    "real_photo_notice": "Real photos of our Kashmiri Bazaar facility, cold store, and trade counter are available for inspection upon visit."
+  },
+  "how_to_order": {
+    "section_code": "CHALLAN / SECTION 04 / ORDERING & DISPATCH SCHEDULE",
+    "heading": "Ordering Process & Delivery Schedule",
+    "subheading": "Structured like an official trade challan. Four transparent steps from initial order to delivered invoice.",
+    "delivery_schedule_title": "Delivery Routes & Timing",
+    "urgent_note": "For same-day afternoon delivery in Rawalpindi or Islamabad, please finalize your order before 11:00 AM."
+  },
+  "story": {
+    "section_code": "ARCHIVE / SECTION 05 / 37 YEARS IN RAJA BAZAR",
+    "heading": "Supplying Rawalpindi Dairy Since 1987",
+    "subheading": "From a traditional butter and curd shop in Kashmiri Bazaar to a dedicated B2B dairy partner for the capital region."
+  },
+  "reviews": {
+    "section_code": "VERIFIED / SECTION 06 / CLIENT REVIEWS",
+    "heading": "Google Reviews from Kitchens & Walk-In Buyers",
+    "subheading": "Real feedback from pizzeria managers, executive chefs, and local households in Rawalpindi and Islamabad.",
+    "google_badge": "4.8 / 5.0 Rating on Google Business Profile (132 Verified Reviews)"
+  },
+  "faq": {
+    "section_code": "INQUIRIES / SECTION 07 / FREQUENTLY ASKED QUESTIONS",
+    "heading": "Frequently Asked Trade Questions",
+    "subheading": "Clear answers regarding minimum orders, tax compliance, delivery areas, and commercial sample requests."
+  },
+  "visit": {
+    "section_code": "LOCATION / SECTION 08 / TRADE COUNTER & DISPATCH DESK",
+    "heading": "Visit Our Shop in Kashmiri Bazaar",
+    "subheading": "Our Raja Bazar trade counter is open Monday through Saturday for walk-in retail purchases and commercial sample pickup.",
+    "address_label": "Shop Address:",
+    "hours_label": "Working Hours:",
+    "phone_label": "Direct Desk Phone:",
+    "whatsapp_label": "WhatsApp Orders:",
+    "directions_btn": "Open in Google Maps",
+    "call_btn": "Call Shop Counter",
+    "real_photo_placeholder": "Client Real Photo Slot: Shops 60-61 Kashmiri Bazaar Façade & Signboard"
+  },
+  "footer": {
+    "about_title": "Mazhar Dairy Rawalpindi",
+    "about_text": "FBR-registered wholesale and retail dairy supplier. Providing pizzerias, commercial kitchens, bakeries, and families with cheddar, mozzarella, butter, cream, and desi ghee since 1987.",
+    "quick_links_title": "Quick Navigation",
+    "trade_desk_title": "Trade & Tax Data",
+    "ntn_strn_label": "Tax Registration:",
+    "copyright": "© 1987–2026 Mazhar Dairy. All rights reserved.",
+    "agency_credit": "Designed for trade accuracy and cold-chain transparency."
+  },
+  "mobile_sticky": {
+    "call": "Call Counter",
+    "whatsapp": "WhatsApp Order"
+  }
+}
+

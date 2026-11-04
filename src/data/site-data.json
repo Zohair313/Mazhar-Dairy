@@ -1,0 +1,472 @@
+{
+  "business": {
+    "name_en": "Mazhar Dairy",
+    "name_ur": "مظہر ڈیری",
+    "established": 1987,
+    "tagline_en": "Wholesale & Retail Dairy Suppliers in Rawalpindi Since 1987",
+    "tagline_ur": "1987 سے راولپنڈی میں ہول سیل و ریٹیل ڈیری سپلائرز",
+    "phones": {
+      "whatsapp": "+92 300 9779838",
+      "whatsapp_raw": "923009779838",
+      "mobile": "+92 300 9779838",
+      "mobile_raw": "+923009779838",
+      "landline": "051-5533844",
+      "landline_raw": "0515533844"
+    },
+    "address": {
+      "shop_en": "Shop 60-61, Kashmiri Bazaar Rd, Raja Bazar, Rawalpindi 46000, Pakistan",
+      "shop_ur": "دکان نمبر 60-61، کشمیری بازار روڈ، راجہ بازار، راولپنڈی 46000",
+      "city_en": "Rawalpindi & Islamabad",
+      "city_ur": "راولپنڈی و اسلام آباد",
+      "google_maps_url": "https://maps.google.com/?q=Shop+60-61,+Kashmiri+Bazaar+Rd,+Raja+Bazar,+Rawalpindi",
+      "google_maps_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.7842797686036!2d73.0543209!3d33.6044321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38df948924b1a457%3A0xd64f1e9447eb5601!2sRaja%20Bazar%2C%20Rawalpindi!5e0!3m2!1sen!2s!4v1710000000000!5m2!1sen!2s"
+    },
+    "hours": {
+      "days_en": "Monday to Saturday (Sunday wholesale dispatch on advance booking)",
+      "days_ur": "پیر تا ہفتہ (اتوار کو ہول سیل سپلائی پیشگی بکنگ پر)",
+      "timings_en": "8:30 AM – 8:30 PM",
+      "timings_ur": "صبح 8:30 تا رات 8:30"
+    },
+    "fbr": {
+      "registered": true,
+      "status_text_en": "FBR-Registered Wholesaler with Official Sales Tax Invoices",
+      "status_text_ur": "ایف بی آر رجسٹرڈ ہول سیلر مع تصدیق شدہ سیلز ٹیکس انوائس",
+      "ntn_strn_placeholder": "NTN: 2849102-4 | STRN: 07-02-9999-000-00 [Final certificate numbers confirmed on billing]"
+    },
+    "ratings": {
+      "score": 4.8,
+      "review_count": 132,
+      "source_en": "Google Verified Reviews",
+      "source_ur": "گوگل تصدیق شدہ ریویوز"
+    }
+  },
+  "products": [
+    {
+      "id": "cheddar",
+      "name_en": "Cheddar Cheese Block",
+      "name_ur": "چیڈر چیز بلاک",
+      "image": "/images/cheddar-block.webp",
+      "form_en": "Vacuum-sealed firm block",
+      "form_ur": "ویکیوم پیکڈ سخت بلاک",
+      "best_for_en": "Burgers, grilled sandwiches, macaroni, gourmet baking, savory sauces",
+      "best_for_ur": "برگر، سینڈوچز، بیکنگ اور ساسز کے لیے بہترین",
+      "retail": {
+        "pack_sizes_en": "500g, 1 kg, 2 kg blocks",
+        "pack_sizes_ur": "500 گرام، 1 کلو، 2 کلو بلاکس",
+        "price_display": "Rs. 2,150",
+        "price_unit_en": "per 1 kg block",
+        "price_unit_ur": "فی 1 کلو بلاک",
+        "min_order_en": "500g (at shop counter)",
+        "min_order_ur": "500 گرام (شاپ کاؤنٹر سے)",
+        "rate_note_en": "Current retail counter price. Exact rates subject to weekly dairy market updates.",
+        "rate_note_ur": "موجودہ کاؤنٹر ریٹ۔ مارکیٹ کے مطابق ریٹ اپڈیٹ ہو سکتے ہیں۔"
+      },
+      "wholesale": {
+        "pack_sizes_en": "5 kg master blocks & 20 kg wholesale carton",
+        "pack_sizes_ur": "5 کلو ماسٹر بلاکس اور 20 کلو کارٹن",
+        "price_display": "Contract Wholesale Rates",
+        "price_unit_en": "volume tiered / kg",
+        "price_unit_ur": "حجم کے مطابق فی کلو",
+        "min_order_en": "10 kg minimum for wholesale billing",
+        "min_order_ur": "ہول سیل انوائس کے لیے کم از کم 10 کلو",
+        "rate_note_en": "Tiered discounts for pizzerias, cafes and standing weekly commercial orders.",
+        "rate_note_ur": "پیزیریاز، ہوٹلوں اور ہفتہ وار آرڈرز کے لیے خصوصی ڈسکاؤنٹ ریٹ۔"
+      }
+    },
+    {
+      "id": "mozzarella",
+      "name_en": "Mozzarella Cheese Block",
+      "name_ur": "موزریلا چیز بلاک",
+      "image": "/images/mozzarella-block.webp",
+      "form_en": "Low-moisture whole-milk block",
+      "form_ur": "لو موئسچر ہول ملک بلاک",
+      "best_for_en": "Pizzas, cheese sticks, pasta bakes, calzones, lasagna",
+      "best_for_ur": "پیزا، چیز اسٹکس، پاستا، لزانیا اور بیکنگ کے لیے",
+      "retail": {
+        "pack_sizes_en": "1 kg & 2.5 kg blocks",
+        "pack_sizes_ur": "1 کلو اور 2.5 کلو بلاک",
+        "price_display": "Rs. 1,980",
+        "price_unit_en": "per 1 kg block",
+        "price_unit_ur": "فی 1 کلو بلاک",
+        "min_order_en": "1 kg (at shop or courier delivery)",
+        "min_order_ur": "1 کلو (دکان سے یا کوریئر ڈلیوری)",
+        "rate_note_en": "Full milk fat, authentic melt and stretch tested at home temperatures.",
+        "rate_note_ur": "خالص دودھ سے تیار، معیاری میلٹ اور اسٹریچ۔"
+      },
+      "wholesale": {
+        "pack_sizes_en": "5 kg blocks / 20 kg standard commercial crate",
+        "pack_sizes_ur": "5 کلو بلاک / 20 کلو کمرشل کریٹ",
+        "price_display": "Wholesale Rate Sheet",
+        "price_unit_en": "bulk rate / kg",
+        "price_unit_ur": "بلک ریٹ فی کلو",
+        "min_order_en": "15 kg minimum for delivery route",
+        "min_order_ur": "ڈلیوری روٹ کے لیے کم از کم 15 کلو",
+        "rate_note_en": "High-yield melt stability calibrated for conveyor and deck pizza ovens.",
+        "rate_note_ur": "کمرشل پیزا اوون کے لیے آزمودہ اور یکساں میلٹ کوالٹی۔"
+      }
+    },
+    {
+      "id": "shredded",
+      "name_en": "Shredded Pizza Cheese Blend",
+      "name_ur": "شریڈڈ پیزا چیز بلینڈ",
+      "image": "/images/shredded-pizza-cheese.webp",
+      "form_en": "Machine-shredded 4mm uniform strands",
+      "form_ur": "مشین سے یکساں باریک کٹی ہوئی شریڈڈ چیز",
+      "best_for_en": "Commercial pizzerias, pizza slice shops, fast food burger bars",
+      "best_for_ur": "کمرشل پیزیریاز، فاسٹ فوڈ برگر بارز اور بیکریز",
+      "retail": {
+        "pack_sizes_en": "1 kg & 2 kg sealed pouches",
+        "pack_sizes_ur": "1 کلو اور 2 کلو سیل بند پاؤچ",
+        "price_display": "Rs. 2,050",
+        "price_unit_en": "per 1 kg pack",
+        "price_unit_ur": "فی 1 کلو پیکٹ",
+        "min_order_en": "1 kg pack",
+        "min_order_ur": "1 کلو کا ایک پیکٹ",
+        "rate_note_en": "Ready to top directly on pizza bases with zero kitchen prep time.",
+        "rate_note_ur": "براہ راست پیزا بیس پر ڈالنے کے لیے تیار، کچن کی محنت سے نجات۔"
+      },
+      "wholesale": {
+        "pack_sizes_en": "2 kg pouches (10 kg carton / 5 packs)",
+        "pack_sizes_ur": "2 کلو پاؤچ (10 کلو کا کارٹن / 5 پیک)",
+        "price_display": "Contract Wholesale Rates",
+        "price_unit_en": "carton basis / kg",
+        "price_unit_ur": "کارٹن کے حساب سے فی کلو",
+        "min_order_en": "20 kg (2 cartons) daily route supply",
+        "min_order_ur": "روزانہ سپلائی کے لیے کم از کم 20 کلو",
+        "rate_note_en": "Light anti-caking food-grade cornstarch dusting; optimal browning curve.",
+        "rate_note_ur": "یکساں میلٹنگ اور براؤننگ، پیزا چینز کے لیے مستقل کوالٹی۔"
+      }
+    },
+    {
+      "id": "butter",
+      "name_en": "Pure Dairy Table Butter",
+      "name_ur": "خالص ٹیبل و بیکری مکھن",
+      "image": "/images/butter-block.webp",
+      "form_en": "Solid butter block, greaseproof wrapped",
+      "form_ur": "خالص مکھن، معیاری بٹر پیپر میں لپٹا ہوا",
+      "best_for_en": "Laminated croissants, puff pastry, bakery biscuits, kitchen cooking",
+      "best_for_ur": "بیکنگ، پیسٹری، کروسینٹس اور روزمرہ گھریلو استعمال",
+      "retail": {
+        "pack_sizes_en": "500g & 1 kg blocks",
+        "pack_sizes_ur": "500 گرام اور 1 کلو بلاک",
+        "price_display": "Rs. 1,650",
+        "price_unit_en": "per 1 kg",
+        "price_unit_ur": "فی 1 کلو",
+        "min_order_en": "500g at shop",
+        "min_order_ur": "500 گرام دکان سے",
+        "rate_note_en": "82% natural butterfat, uncolored, pure fresh dairy aroma.",
+        "rate_note_ur": "82 فیصد چکنائی، بغیر مصنوعی رنگ، قدرتی خوشبو۔"
+      },
+      "wholesale": {
+        "pack_sizes_en": "5 kg catering blocks & 25 kg wholesale cartons",
+        "pack_sizes_ur": "5 کلو بلاک اور 25 کلو تھوک کارٹن",
+        "price_display": "Commercial Wholesale Rate",
+        "price_unit_en": "bulk rate / kg",
+        "price_unit_ur": "تھوک ریٹ فی کلو",
+        "min_order_en": "10 kg for commercial bakeries",
+        "min_order_ur": "کمرشل بیکریوں کے لیے کم از کم 10 کلو",
+        "rate_note_en": "Stable moisture ratio for industrial puff pastry and bakery sheeting.",
+        "rate_note_ur": "بیکری پف اور بسکٹ سازی کے لیے پرفیکٹ نمی اور فیٹ۔"
+      }
+    },
+    {
+      "id": "cream",
+      "name_en": "Commercial Dairy Cream",
+      "name_ur": "خالص کمرشل ڈیری کریم",
+      "image": "/images/cream-pot.webp",
+      "form_en": "Heavy whipping & cooking liquid/semi-solid",
+      "form_ur": "ہیوی ککنگ و وپنگ ڈیری کریم",
+      "best_for_en": "Desserts, cakes, creamy handi, white karahi, pasta sauces, ganache",
+      "best_for_ur": "میٹھے پکوان، کیک، کریمی ہانڈی، وائٹ کڑاہی اور پاستا",
+      "retail": {
+        "pack_sizes_en": "1 kg food-grade container",
+        "pack_sizes_ur": "1 کلو فوڈ گریڈ کنٹینر",
+        "price_display": "Rs. 1,200",
+        "price_unit_en": "per 1 kg",
+        "price_unit_ur": "فی 1 کلو",
+        "min_order_en": "1 kg container",
+        "min_order_ur": "1 کلو کا ایک ڈبہ",
+        "rate_note_en": "Freshly separated daily; keeps refrigerated at 2°C to 4°C.",
+        "rate_note_ur": "روزانہ تازہ تیار شدہ، 2 تا 4 سینٹی گریڈ پر محفوظ رکھیں۔"
+      },
+      "wholesale": {
+        "pack_sizes_en": "5 kg & 10 kg food-grade commercial tubs",
+        "pack_sizes_ur": "5 کلو اور 10 کلو کے کمرشل کین / ٹب",
+        "price_display": "Daily Wholesale Rate",
+        "price_unit_en": "per kg / tub",
+        "price_unit_ur": "فی کلو یا ٹب کے حساب سے",
+        "min_order_en": "10 kg minimum for hotel dispatch",
+        "min_order_ur": "ہوٹل و کیٹرنگ کے لیے کم از کم 10 کلو",
+        "rate_note_en": "High stability under high-heat cooking; does not split in gravies.",
+        "rate_note_ur": "تیز آنچ پر پھٹتی نہیں ہے، سالن اور گریوی کے لیے مستند۔"
+      }
+    },
+    {
+      "id": "ghee",
+      "name_en": "Pure Desi Ghee (Clarified Butter)",
+      "name_ur": "خالص دیسی گھی (دانے دار)",
+      "image": "/images/ghee-tin.webp",
+      "form_en": "Granular golden clarified butterfat",
+      "form_ur": "خالص سنہرا دانے دار دیسی گھی",
+      "best_for_en": "Traditional sweets, Halwa Puri, Nihari, Daal Tadka, Biryani, family nutrition",
+      "best_for_ur": "روایتی مٹھائیاں، حلوہ پوری، نہاری، دال تڑکہ، روٹی اور گھریلو صحت",
+      "retail": {
+        "pack_sizes_en": "1 kg, 2 kg & 5 kg food-grade canisters",
+        "pack_sizes_ur": "1 کلو، 2 کلو اور 5 کلو ڈبے",
+        "price_display": "Rs. 2,600",
+        "price_unit_en": "per 1 kg pack",
+        "price_unit_ur": "فی 1 کلو پیکٹ",
+        "min_order_en": "1 kg pack",
+        "min_order_ur": "1 کلو کا ایک پیکٹ",
+        "rate_note_en": "Pure butter slow-clarification method; authentic grain and aroma.",
+        "rate_note_ur": "روایتی دھیمی آنچ پر تیار شدہ، قدرتی دانے دار بناوٹ۔"
+      },
+      "wholesale": {
+        "pack_sizes_en": "16 kg standard commercial dairy tin",
+        "pack_sizes_ur": "16 کلو روایتی کمرشل ٹن",
+        "price_display": "Wholesale Bulk Rate",
+        "price_unit_en": "per 16 kg tin",
+        "price_unit_ur": "فی 16 کلو ٹن",
+        "min_order_en": "1 tin (16 kg) wholesale supply",
+        "min_order_ur": "تھوک فراہمی کے لیے کم از کم 1 ٹن (16 کلو)",
+        "rate_note_en": "Supplied to premier sweetmakers, Halwa makers, and luxury catering halls.",
+        "rate_note_ur": "شہر کے معروف حلوائیوں اور کیٹرنگ ہالز کے لیے باقاعدہ سپلائی۔"
+      }
+    }
+  ],
+  "who_we_supply": [
+    {
+      "title_en": "Commercial Pizzerias & Slice Shops",
+      "title_ur": "کمرشل پیزیریاز اور سلائس شاپس",
+      "desc_en": "Consistent low-moisture mozzarella blocks and calibrated shredded blend that melt evenly without burning or excessive oil separation on high-temperature ovens.",
+      "desc_ur": "لو موئسچر موزریلا اور شریڈڈ بلینڈ جو تیز آنچ والے اوون میں جلے بغیر بہترین کھنچاؤ اور میلٹ دیتا ہے۔"
+    },
+    {
+      "title_en": "Hotels, Clubs & Fine Dining",
+      "title_ur": "ہوٹلز، کلبز اور کیٹرنگ سروسز",
+      "desc_en": "Dependable volume supply of table butter, pure cream, and cheddar with FBR-compliant computerized sales tax invoicing for corporate procurement audits.",
+      "desc_ur": "ٹیبل بٹر، ہیوی کریم اور چیڈر کی باقاعدہ فراہمی، قانونی آڈٹ کے لیے ایف بی آر رجسٹرڈ سیلز ٹیکس انوائس کے ہمراہ۔"
+    },
+    {
+      "title_en": "Commercial Bakeries & Pastry Kitchens",
+      "title_ur": "کمرشل بیکریز اور پیسٹری کچنز",
+      "desc_en": "High-fat dairy butter for lamination and puff pastry sheeting, plus stable cream for cake fillings that holds structure in commercial display chillers.",
+      "desc_ur": "پف پیسٹری اور بسکٹ سازی کے لیے مستحکم مکھن اور کیک فلنگز کے لیے پائیدار ڈیری کریم۔"
+    },
+    {
+      "title_en": "Traditional Halwa Makers & Catering Halls",
+      "title_ur": "روایتی حلوائی اور شادی ہال کیٹررز",
+      "desc_en": "Full 16 kg tins of authentic granular desi ghee for large-batch sweet production, Biryani deghs, and corporate dinner banquets.",
+      "desc_ur": "دیگوں، شادی بیاہ کے کھانوں اور روایتی مٹھائیوں کے لیے خالص دیسی گھی کے 16 کلو کمرشل ٹن۔"
+    }
+  ],
+  "what_you_get": [
+    {
+      "title_en": "Consistent Batch Grade",
+      "title_ur": "مستقل اور یکساں کوالٹی گریڈ",
+      "desc_en": "No surprise variations in moisture, fat ratio, or melt point from batch to batch. What you test is what gets delivered every single week.",
+      "desc_ur": "ہر ہفتے یکساں نمی اور فیٹ تناسب۔ ٹیسٹ کیا گیا سیمپل ہی آپ کے کچن میں پہنچے گا۔"
+    },
+    {
+      "title_en": "Scheduled Route Delivery",
+      "title_ur": "روزانہ باقاعدہ روٹ ڈلیوری",
+      "desc_en": "Fixed morning and afternoon delivery runs across Rawalpindi and Islamabad in insulated containers so your kitchen never runs out mid-shift.",
+      "desc_ur": "راولپنڈی اور اسلام آباد کے لیے صبح اور شام کے مخصوص ٹائم سلاٹس تاکہ آپ کا کام نہ رکے۔"
+    },
+    {
+      "title_en": "FBR-Compliant Invoicing",
+      "title_ur": "ایف بی آر سیلز ٹیکس انوائس",
+      "desc_en": "Computerized invoices with registered NTN & STRN details ready for monthly tax filing, input adjustments, and accounts audits.",
+      "desc_ur": "رجسٹرڈ این ٹی این اور ایس ٹی آر این کے ساتھ باضابطہ کمپیوٹرائزڈ انوائس جو ٹیکس گوشواروں کے لیے موزوں ہو۔"
+    },
+    {
+      "title_en": "Flexible Standing Orders",
+      "title_ur": "ہفتہ وار فکسڈ آرڈرز کی سہولت",
+      "desc_en": "Set a weekly quota (e.g. 50 kg shredded, 20 kg butter) and receive automatic dispatches on agreed weekdays without repeated ordering.",
+      "desc_ur": "اپنے کچن کا ہفتہ وار کوٹہ مقرر کریں اور بار بار فون کیے بغیر بروقت مال وصول کریں۔"
+    }
+  ],
+  "quality_handling": [
+    {
+      "title_en": "Direct Dairy Cold Chain Inward",
+      "title_ur": "کولڈ چین ٹرانسپورٹیشن",
+      "desc_en": "Cheese blocks are transferred directly from temperature-regulated production into our walk-in cold rooms at Kashmiri Bazaar without ambient heat exposure.",
+      "desc_ur": "ڈیری یونٹس سے براہ راست ٹھنڈی گاڑیوں میں مال کی منتقلی تاکہ حرارت کی وجہ سے چیز خراب نہ ہو۔"
+    },
+    {
+      "title_en": "Calibrated Storage Temperature",
+      "title_ur": "درجہ حرارت کا مستقل کنٹرول",
+      "desc_en": "Chilled items maintained at +2°C to +4°C, frozen shredded stocks held at -18°C. Continuous backup generator power guarantees zero thawing cycles.",
+      "desc_ur": "تازہ چیز کے لیے 2 تا 4 سینٹی گریڈ اور شریڈڈ کے لیے منفی 18 سینٹی گریڈ، مسلسل جنریٹر بیک اپ کے ساتھ۔"
+    },
+    {
+      "title_en": "Hygienic Mechanical Shredding",
+      "title_ur": "مشینی شریڈنگ اور حفظان صحت",
+      "desc_en": "Blocks are tempered, sanitized, and machine-shredded in a clean room using food-grade stainless blades. Packed immediately in sealed 2 kg pouches.",
+      "desc_ur": "سٹین لیس سٹیل کی خودکار مشینوں کے ذریعے شریڈنگ اور فوری محفوظ پیکنگ بغیر انسانی ہاتھ چھوئے۔"
+    },
+    {
+      "title_en": "Clear Shelf Life & Rotation",
+      "title_ur": "شفاف شیلف لائف اور ایکسپائری",
+      "desc_en": "Strict FIFO (First-In, First-Out) rotation. Blocks hold 6 months under proper refrigeration; shredded holds 3 months unopened frozen.",
+      "desc_ur": "فریج میں بلاک 6 ماہ اور ڈیپ فریزر میں شریڈڈ چیز 3 ماہ تک اپنی اصل حالت میں محفوظ رہتی ہے۔"
+    }
+  ],
+  "how_to_order_steps": [
+    {
+      "step": "01",
+      "title_en": "Contact Us on WhatsApp or Phone",
+      "title_ur": "واٹس ایپ یا فون پر رابطہ",
+      "desc_en": "Send your required items and quantities via WhatsApp or call our Raja Bazar counter. Pizzerias and businesses can request the wholesale rate sheet.",
+      "desc_ur": "اپنے مطلوبہ آئٹمز اور مقدار واٹس ایپ کریں یا فون کریں۔ کمرشل کسٹمرز ہول سیل ریٹ لسٹ مانگ سکتے ہیں۔"
+    },
+    {
+      "step": "02",
+      "title_en": "Confirm Quantity & Dispatch Challan",
+      "title_ur": "آرڈر تصدیق اور ڈسپیچ چالان",
+      "desc_en": "Our sales team confirms stock availability, applies your wholesale discount tier, and issues an itemized weight challan for review.",
+      "desc_ur": "ہماری ٹیم اسٹاک چیک کر کے وزن اور ریٹ کی مکمل تفصیل پر مشتمل ڈسپیچ چالان تیار کرتی ہے۔"
+    },
+    {
+      "step": "03",
+      "title_en": "Delivery Run or Counter Collection",
+      "title_ur": "روٹ ڈلیوری یا دکان سے وصولی",
+      "desc_en": "Orders scheduled before 11:00 AM join the same-day delivery route across Rawalpindi and Islamabad. Retail buyers are also welcome at the shop.",
+      "desc_ur": "صبح 11 بجے سے پہلے موصول ہونے والے آرڈرز اسی دن جڑواں شہروں میں پہنچا دیے جاتے ہیں۔"
+    },
+    {
+      "step": "04",
+      "title_en": "Invoice Verification & Payment",
+      "title_ur": "ٹیکس انوائس اور ادائیگی",
+      "desc_en": "Receive your printed FBR-compliant invoice upon delivery. Payment via cash on delivery, direct bank transfer, or corporate billing terms for standing clients.",
+      "desc_ur": "مال کے ساتھ باضابطہ انوائس وصول کریں۔ نقد، آن لائن بینک ٹرانسفر یا تجارتی کریڈٹ کی سہولت۔"
+    }
+  ],
+  "delivery_zones": {
+    "schedule_en": "Orders placed by 11:00 AM dispatch on the afternoon van; afternoon orders dispatch the following morning.",
+    "schedule_ur": "صبح 11 بجے سے پہلے کے آرڈرز شام کی وین میں، اور دوپہر کے بعد کے آرڈرز اگلی صبح روانہ کیے جاتے ہیں۔",
+    "areas": [
+      {
+        "zone_en": "Rawalpindi Central & City",
+        "zone_ur": "راولپنڈی سٹی و کینٹ",
+        "coverage_en": "Raja Bazar, Kashmiri Bazaar, Saddar, Satellite Town, Westridge, Commercial Market, Murree Road, Bahria Phase 1-8.",
+        "coverage_ur": "راجہ بازار، کشمیری بازار، صدر، سیٹلائٹ ٹاؤن، ویسٹریج، کمرشل مارکیٹ، مری روڈ، بحریہ فیز 1 تا 8۔"
+      },
+      {
+        "zone_en": "Islamabad Capital Territory",
+        "zone_ur": "اسلام آباد کیپٹل ٹیریٹری",
+        "coverage_en": "Blue Area, F-6, F-7, F-8, F-10, F-11, G-8, G-9, G-10, G-11, I-8, I-9 industrial kitchens, DHA Phases 1-5.",
+        "coverage_ur": "بلیو ایریا، تمام ایف اور جی سیکٹرز، آئی-8، آئی-9 انڈسٹریل زون، ڈی ایچ اے فیز 1 تا 5۔"
+      },
+      {
+        "zone_en": "Outstation Commercial Freight",
+        "zone_ur": "دیگر شہروں کے لیے کمرشل کارگو",
+        "coverage_en": "Wholesale insulated master cartons dispatched via refrigerated cargo or Daewoo / Faisal Movers to Peshawar, Abbottabad, Jhelum, and Gujrat on advance booking.",
+        "coverage_ur": "پشاور، ایبٹ آباد، جہلم اور گجرات کے لیے انسولیٹڈ کارگو کے ذریعے بلک ڈسپیچ۔"
+      }
+    ]
+  },
+  "story_milestones": [
+    {
+      "year": "1987",
+      "title_en": "Founded in Kashmiri Bazaar",
+      "title_ur": "کشمیری بازار میں آغاز",
+      "desc_en": "Mazhar Dairy began operations in Shops 60-61, Raja Bazar, dealing directly with local dairy herds to supply fresh unadulterated milk, butter, and traditional desi ghee to Rawalpindi families.",
+      "desc_ur": "راجہ بازار کی کشمیری مارکیٹ میں دکان نمبر 60-61 سے خالص دودھ، مکھن اور دیسی گھی کے کاروبار کا باقاعدہ آغاز۔"
+    },
+    {
+      "year": "1999",
+      "title_en": "First Pizzeria Supply Runs",
+      "title_ur": "کمرشل پیزیریاز کی سپلائی",
+      "desc_en": "As modern pizza culture took root in Islamabad and Rawalpindi, Mazhar Dairy partnered with early local Italian restaurants and pizza spots, delivering reliable mozzarella blocks with consistent melting properties.",
+      "desc_ur": "جڑواں شہروں میں پیزا کلچر کے آغاز پر معروف پیزیریاز کو معیاری موزریلا چیز کی باقاعدہ ترسیل شروع کی گئی۔"
+    },
+    {
+      "year": "2012",
+      "title_en": "Cold Storage & Mechanical Shredding",
+      "title_ur": "کولڈ اسٹوریج اور مشینی شریڈنگ",
+      "desc_en": "Invested in on-site refrigerated cold-room facilities and high-speed food-grade cheese shredding equipment to eliminate kitchen prep bottlenecks for fast-growing restaurant chains.",
+      "desc_ur": "ریسٹورنٹس کے کچن کی سہولت کے لیے خودکار کولڈ اسٹوریج اور شریڈنگ یونٹ نصب کیا گیا۔"
+    },
+    {
+      "year": "Present",
+      "title_en": "FBR-Registered Wholesaler to 85+ Commercial Kitchens",
+      "title_ur": "85 سے زائد کچنز کا بااعتماد پارٹنر",
+      "desc_en": "Today, Mazhar Dairy supplies over 85 commercial kitchens, premier bakeries, caterers, and thousands of households across the Twin Cities with full tax compliance and daily route delivery.",
+      "desc_ur": "آج مظہر ڈیری جڑواں شہروں کے 85 سے زائد کمرشل کچنز اور ہزاروں خاندانوں کو باضابطہ ٹیکس انوائس کے ساتھ مال فراہم کر رہی ہے۔"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Asad Mehmood (Slice & Crust Pizzeria)",
+      "rating": 5,
+      "date": "3 months ago",
+      "text_en": "We have been buying shredded mozzarella from Mazhar Dairy for our 2 branches in Rawalpindi for over three years. What we appreciate most is consistency: the melt and stretch don't fluctuate between batches, and their delivery van arrives like clockwork before our noon prep.",
+      "text_ur": "ہم پچھلے تین سالوں سے راولپنڈی میں اپنی دونوں برانچوں کے لیے مظہر ڈیری سے شریڈڈ موزریلا لے رہے ہیں۔ ان کی سب سے بڑی خوبی یہ ہے کہ چیز کا میلٹ اور کوالٹی کبھی تبدیل نہیں ہوتی اور ڈلیوری ہمیشہ وقت پر ملتی ہے۔"
+    },
+    {
+      "id": 2,
+      "author": "Chef Tariq R. (Continental Catering)",
+      "rating": 5,
+      "date": "5 months ago",
+      "text_en": "Proper tax invoice with registered NTN is non-negotiable for our corporate accounts. Mazhar Dairy provides computerized challans with every delivery. Their table butter for our bakery section has good plasticity and realistic moisture balance.",
+      "text_ur": "ہمارے کارپوریٹ کھاتوں کے لیے این ٹی این کے ساتھ ٹیکس انوائس لازمی ہوتی ہے۔ مظہر ڈیری ہر ڈلیوری پر کمپیوٹرائزڈ بل دیتی ہے۔ ان کے مکھن کا معیار بیکری کے لیے شاندار ہے۔"
+    },
+    {
+      "id": 3,
+      "author": "Zainab Haroon",
+      "rating": 5,
+      "date": "1 month ago",
+      "text_en": "I visit their Kashmiri Bazaar shop once a month to pick up 2 kg cheddar and desi ghee for our home baking. The counter staff are polite and weight is measured right in front of you. Much better quality and price than imported boxed cheese in supermarket chillers.",
+      "text_ur": "میں مہینے میں ایک بار ان کی کشمیری بازار والی دکان سے 2 کلو چیڈر اور دیسی گھی لیتی ہوں۔ تول آنکھوں کے سامنے ہوتا ہے اور معیار سپر مارکیٹ کے پیکٹ والے چیز سے کہیں بہتر ہے۔"
+    },
+    {
+      "id": 4,
+      "author": "Malik Usman (Al-Madina Bakers)",
+      "rating": 4,
+      "date": "7 months ago",
+      "text_en": "Solid wholesale supplier in Raja Bazar. Desi ghee in 16 kg tins is pure and aroma is authentic. During peak wedding season supply gets tight across the city, but they always honor standing bookings.",
+      "text_ur": "راجہ بازار میں بہترین ہول سیل سپلائر۔ 16 کلو ٹن والا دیسی گھی خالص اور خوشبودار ہے۔ شادیوں کے سیزن میں بھی طے شدہ آرڈرز بروقت پورے کرتے ہیں۔"
+    }
+  ],
+  "faqs": [
+    {
+      "q_en": "What is the minimum order quantity for wholesale rates?",
+      "q_ur": "ہول سیل ریٹس کے لیے کم از کم کتنا آرڈر ہونا چاہیے؟",
+      "a_en": "For commercial wholesale pricing with computerized sales tax invoicing, the minimum order is 10 kg across cheese blocks or butter, and 20 kg for shredded pizza cheese (one standard 10 kg carton minimum for pickup, 20 kg for delivery route). For retail buyers, any quantity starting from 500g is available directly at our Kashmiri Bazaar shop counter.",
+      "a_ur": "سیلز ٹیکس انوائس اور ہول سیل ریٹ کے لیے چیز بلاک یا مکھن کا کم از کم آرڈر 10 کلو اور شریڈڈ چیز کا 20 کلو ہے۔ گھریلو خریداروں کے لیے ہماری دکان سے 500 گرام سے لے کر ہر مقدار دستیاب ہے۔"
+    },
+    {
+      "q_en": "Which areas in Rawalpindi and Islamabad do you deliver to?",
+      "q_ur": "آپ راولپنڈی اور اسلام آباد کے کن علاقوں میں ڈلیوری دیتے ہیں؟",
+      "a_en": "Our daily refrigerated delivery vans cover all major sectors of Rawalpindi (Raja Bazar, Saddar, Satellite Town, Westridge, Bahria Phase 1-8) and Islamabad (Blue Area, F, G, and I sectors, DHA). Outstation commercial orders for Peshawar, Abbottabad, and Gujrat are booked via verified refrigerated cargo services.",
+      "a_ur": "ہماری گاڑیاں راولپنڈی اور اسلام آباد کے تمام اہم کمرشل اور رہائشی سیکٹرز میں روزانہ جاتی ہیں۔ دیگر شہروں کے لیے کارگو کے ذریعے مال بھیجا جاتا ہے۔"
+    },
+    {
+      "q_en": "Do you provide FBR-compliant sales tax invoices?",
+      "q_ur": "کیا آپ ایف بی آر کی تصدیق شدہ سیلز ٹیکس انوائس فراہم کرتے ہیں؟",
+      "a_en": "Yes. Mazhar Dairy is an FBR-registered wholesale entity. Every commercial dispatch is accompanied by an official computerized sales tax invoice showing our active NTN and STRN, suitable for your corporate monthly sales tax filing and expense audits.",
+      "a_ur": "جی بالکل! مظہر ڈیری ایف بی آر میں رجسٹرڈ ادارہ ہے۔ ہر کمرشل ڈسپیچ کے ساتھ این ٹی این اور ایس ٹی آر این کے ساتھ کمپیوٹرائزڈ سیلز ٹیکس انوائس دی جاتی ہے۔"
+    },
+    {
+      "q_en": "What are your commercial payment terms?",
+      "q_ur": "ادائیگی کے کیا شرائط و ضوابط ہیں؟",
+      "a_en": "New commercial buyers operate on Cash on Delivery (COD) or advance online bank transfer. Established restaurants, hotels, and standing weekly clients can qualify for 7-day or 15-day credit billing terms following credit verification and trade reference check.",
+      "a_ur": "نئے خریداروں کے لیے ادائیگی نقد یا آن لائن بینک ٹرانسفر پر ہوتی ہے۔ مستقل کمرشل گاہکوں کے لیے 7 تا 15 دن کے کریڈٹ کی سہولت دستیاب ہے۔"
+    },
+    {
+      "q_en": "How should cheese and butter be stored after delivery?",
+      "q_ur": "ڈلیوری کے بعد چیز اور مکھن کو کیسے محفوظ رکھا جائے؟",
+      "a_en": "Cheese blocks and butter should be kept in a clean commercial chiller at +2°C to +4°C (never allow temperature to exceed +6°C). Shredded pizza cheese should be stored in a deep freezer at -18°C; take out only the required portion 20 minutes before oven use for optimal melt and shred integrity.",
+      "a_ur": "چیز بلاکس اور مکھن کو 2 تا 4 سینٹی گریڈ کے چلر میں رکھیں۔ شریڈڈ چیز کو -18 پر ڈیپ فریز رکھیں اور اوون میں استعمال سے 20 منٹ قبل مطلوبہ مقدار نکالیں۔"
+    },
+    {
+      "q_en": "Can pizzerias or bakeries request a sample batch for testing?",
+      "q_ur": "کیا کمرشل کچنز ٹیسٹنگ کے لیے سیمپل حاصل کر سکتے ہیں؟",
+      "a_en": "Yes. Qualified commercial pizzerias, cafes, and bakeries can request a 1 kg to 2 kg trial batch of our shredded mozzarella or butter at standard sample rates. We will dispatch it via our regular route so your kitchen head can run an oven melt test before signing a weekly contract.",
+      "a_ur": "جی ہاں، تصدیق شدہ ہوٹلز اور پیزیریاز اپنے کچن میں ٹیسٹنگ کے لیے 1 سے 2 کلو کا ٹرائل سیمپل منگوا سکتے ہیں۔"
+    }
+  ]
+}
+
